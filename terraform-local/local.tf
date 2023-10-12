@@ -1,3 +1,5 @@
+#Main_terraform_file
+
 resource "local_file" "devops" {
 
          filename = "/home/ubuntu/terraform-test/terrafrom-local/devops_automated.txt"

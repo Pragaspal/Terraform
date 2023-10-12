@@ -1,3 +1,5 @@
+#This is main file for variable
+
 resource "local_file" "devops" {
 
 	filename = var.file_list[0]

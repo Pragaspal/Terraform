@@ -1,4 +1,4 @@
-#Creating instance EC2 in AWS
+#Creating instance EC2 in AWS Cloud
 
 terraform {
 

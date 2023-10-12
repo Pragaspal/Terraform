@@ -1,3 +1,5 @@
+# Variable for terraform
+
 variable "filename" {
 	default = "/home/pragas/terraform/terraform-variables/devops-automated.txt"
 

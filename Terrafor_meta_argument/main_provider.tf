@@ -1,4 +1,5 @@
-# default configuration
+# default configurations
+
 provider "google" {
   region = "us-central1"
 }
